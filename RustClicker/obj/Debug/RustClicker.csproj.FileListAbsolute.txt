@@ -1,0 +1,12 @@
+c:\users\gristian\documents\visual studio 2015\Projects\RustClicker\RustClicker\bin\Debug\RustClicker.exe.config
+c:\users\gristian\documents\visual studio 2015\Projects\RustClicker\RustClicker\bin\Debug\RustClicker.exe
+c:\users\gristian\documents\visual studio 2015\Projects\RustClicker\RustClicker\bin\Debug\RustClicker.pdb
+c:\users\gristian\documents\visual studio 2015\Projects\RustClicker\RustClicker\obj\Debug\RustClicker.csprojResolveAssemblyReference.cache
+c:\users\gristian\documents\visual studio 2015\Projects\RustClicker\RustClicker\obj\Debug\RustClicker.Form1.resources
+c:\users\gristian\documents\visual studio 2015\Projects\RustClicker\RustClicker\obj\Debug\RustClicker.Properties.Resources.resources
+c:\users\gristian\documents\visual studio 2015\Projects\RustClicker\RustClicker\obj\Debug\RustClicker.csproj.GenerateResource.Cache
+c:\users\gristian\documents\visual studio 2015\Projects\RustClicker\RustClicker\obj\Debug\RustClicker.exe
+c:\users\gristian\documents\visual studio 2015\Projects\RustClicker\RustClicker\obj\Debug\RustClicker.pdb
+C:\Users\GRISTIAN\Documents\github\RustClicker\RustClicker\bin\Debug\RustClicker.exe.config
+C:\Users\GRISTIAN\Documents\github\RustClicker\RustClicker\obj\Debug\RustClicker.exe
+C:\Users\GRISTIAN\Documents\github\RustClicker\RustClicker\obj\Debug\RustClicker.pdb
